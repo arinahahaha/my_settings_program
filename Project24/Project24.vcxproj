@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="printPars.h" />
     <ClInclude Include="rstruct_person.h" />
     <ClInclude Include="settings.h" />
   </ItemGroup>
